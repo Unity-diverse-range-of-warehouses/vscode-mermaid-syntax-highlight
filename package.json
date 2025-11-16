@@ -61,9 +61,9 @@
 		"test": "vscode-tmgrammar-test 'tests/**/*.test.{mermaid,md}'"
 	},
 	"devDependencies": {
-		"js-yaml": "^3.13.1",
+		"js-yaml": "^4.1.1",
 		"vscode-tmgrammar-test": "^0.1.1",
-		"yaml-import": "^2.0.0"
+		"yaml-import": "^3.0.0"
 	},
 	"__metadata": {
 		"id": "08792992-bb56-41fb-b5dd-8551bbee0cb6",
